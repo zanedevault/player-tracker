@@ -2,6 +2,8 @@
 
 This is the project that I'm using to learn OOP, MVC, Test Driven Development, phpDocumentor, Composer and probably some JavaScript and maybe even a little React.
 
+For the sake of full disclosure, this is the fourth time that I've started this repo from scratch.
+
 
 ## This WP plugin should:
 - Choose from a list of Players to track from the user in WP admin
@@ -52,12 +54,3 @@ This is the project that I'm using to learn OOP, MVC, Test Driven Development, p
 - [Treehouse PHP OOP](https://teamtreehouse.com/library/topic:php/q:object-oriented)
 - [GitHub Plugin Boilerplate](https://github.com/devinvinson/WordPress-Plugin-Boilerplate/)
 - [Slushman Sample Boilerplate](https://github.com/slushman/now-hiring)
-
-
-
-
-
-
-
-
-links
