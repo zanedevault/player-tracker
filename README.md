@@ -13,6 +13,9 @@ This is the project that I'm using to learn OOP, MVC, Test Driven Development, p
 - Allow search and add of any player in API Sports
 - Use a different API
 - Allow user to choose what stats to display
+- Add links to highlights
+- Add links to match reports
+- Add links to other articles mentioning the player (maybe the user can provide a list of sites to crawl for these links)
 
 
 ## Important Reminder
