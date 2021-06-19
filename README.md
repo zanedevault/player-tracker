@@ -1,3 +1,5 @@
+commit test 1
+
 # Player Tracker
 
 This is the project that I'm using to learn OOP, MVC, Test Driven Development, phpDocumentor, Composer and probably some JavaScript and maybe even a little React.
